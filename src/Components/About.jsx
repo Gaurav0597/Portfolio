@@ -9,7 +9,7 @@ export default function About() {
         <Cont>
           <Left>
             <Para>Hi I'm</Para>
-            <Header>Gaurav Petkar</Header>
+            <Header>Gaurav</Header>
             <Para>Full-Stack Web Developer, living in Maharashtra (India)</Para>
             <Link to="footer" smooth={true} duration={1500}>
               <ContactBtn>Contact me</ContactBtn>
