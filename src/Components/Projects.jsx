@@ -32,28 +32,31 @@ export default function Projects() {
     },
     {
       id: '3',
-      name: 'Food App',
+      name: 'Indiamart Clone',
       img:
-        'https://user-images.githubusercontent.com/95076519/165964044-4a1bfe49-a105-4c21-9d79-fe6d29a4b360.png',
-      gh: 'https://github.com/Gaurav0597/Food-App-Javascript',
-      url: 'https://food-app-henna.vercel.app/',
+        'https://user-images.githubusercontent.com/95076519/181744956-9935e14f-f6eb-4cd7-8a61-cf5feb7e3167.png',
+      gh: 'https://github.com/Sagar160301/IndiaMart',
+      url: 'https://heroic-zabaione-a1a115.netlify.app/',
       desc:
-        'Food App',
-        Feature:"Food App is provide the random food on home page, Provides special menus also Login and authentication of user name by registering.",
-        Responsibility: "It was an Individual Project- Completed in 1 day.",
-      stack: 'HTML, CSS, JavaScript, Api',
+        "This is India's largest online marketplace which connects buyers and suppliers (E-commerce website)",
+        Feature:"Signin,login, Products Page,Product Ordering page sorting Filtering",
+        Responsibility: "Responsible for Navbar,Headers, Footer and some part of Product pages",
+      stack: 'React.js, Node.js,Express,Mongodb,Redux, Material UI',
     },
-    /* {
-      id: "4",
-      name: "Flipkart - clone",
-      img: "FK.png",
-      gh: "https://github.com/gsunil1996/flipkart_updated",
-      url: "https://linkedin-clone-sigma.vercel.app/",
-      desc: "Flipkart clone s a collaborative project of four people where we developed functionalities in 6 days.",
-      stack: "HTML, CSS, Javascript",
-    },*/
-
-    //     { id: "5", name: "Internshala - clone", img: "internshala2.png", gh:"https://github.com/Deependra-Negi/internshala_project", url:"https://pulkit0111.github.io/internshala_project/", desc: "An online internship and training platform. A collaborative project, developed along with 3 team members in 10 days.", stack:"HTML, CSS, JavaScript"}
+    {
+      id: '4',
+      name: 'Shoppers Stop Clone',
+      img:
+        'https://user-images.githubusercontent.com/95076519/181747267-f706243a-784d-408f-b1c8-1f92872fcb3c.png',
+      gh: 'https://github.com/Gaurav0597/UNIT4-PROJECT-SHOPPERS-STOP',
+      url: 'https://shoppersdemo.netlify.app/',
+      desc:
+        "This is India's largest E-commerce website deals with Clothing, Accessories,Shoes Jewellery,Cosmetics Health and Beauty products",
+        Feature:"Signin,login, Products Page,Product Ordering page sorting Filtering",
+        Responsibility: "Responsible for Product pages and Products details Pages",
+      stack: 'JavaScript,CSS,Node.js,Express,Mongodb',
+    },
+    
   ]
 
   return (
