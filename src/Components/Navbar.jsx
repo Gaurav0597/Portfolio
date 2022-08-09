@@ -24,7 +24,7 @@ export default function Navbar() {
           <Resume>
             {' '}
             <a
-              href="https://drive.google.com/file/d/1yUTiJRlujpm7_zsiHSYniVw9KS1V0zla/view?usp=sharing"
+              href="https://drive.google.com/drive/folders/1GDS3u5B4PnnXW8PAjqkIVsHXfRj7BAA3?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
